@@ -33,6 +33,28 @@ For best results, you should SSH into the VM through your iterm:
 
 I'd also recommend you keep a notepad / Word document to record tokens and processes.
 
+## Useful Commands
+- `ls -la` - for checking the contents of a directory
+- `vi` - for editing files
+- `echo` - will be used primarily for injecting info into files
+- `ln -s` - for creating symbolic links
+- `strings` - this will condense long, encrypted files into their base strings
+
 ## Useful Programs
 
 ## Contents
+- Level 00
+- Level 01
+- Level 02
+- Level 03
+- Level 04
+- Level 05
+- Level 06
+- Level 07
+- Level 08
+- Level 09
+- Level 10
+- Level 11 (Bonus)
+- Level 12 (Bonus)
+- Level 13 (Bonus)
+- Level 14 (Bonus)
